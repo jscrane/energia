@@ -1,0 +1,4 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms 
+
+dummy.name=dummy
+dummy.protocol=dummy
