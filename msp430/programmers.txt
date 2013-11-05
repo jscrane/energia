@@ -5,3 +5,6 @@ rf2500.protocol=rf2500
 
 tilib.name=tilib
 tilib.protocol=tilib
+
+dummy.name=dummy
+dummy.protocol=dummy

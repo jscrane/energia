@@ -77,7 +77,7 @@ lpmsp430f5529_25.upload.maximum_ram_size=1024
 
 ##############################################################
 bmsp430g2553.name=Boot430 w/ msp430g2553 (16MHz)
-#lpmsp430g2553.upload.protocol=rf2500
+bmsp430g2553.upload.protocol=dummy
 bmsp430g2553.upload.tool=boot430load
 bmsp430g2553.upload.maximum_size=16384
 bmsp430g2553.build.mcu=msp430g2553
