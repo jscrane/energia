@@ -76,14 +76,14 @@ lpmsp430f5529_25.build.variant=launchpad_f5529
 lpmsp430f5529_25.upload.maximum_ram_size=1024
 
 ##############################################################
-lpmsp430g2553.name=Boot430 w/ msp430g2553 (16MHz)
+bmsp430g2553.name=Boot430 w/ msp430g2553 (16MHz)
 #lpmsp430g2553.upload.protocol=rf2500
-lpmsp430g2553.upload.tool=boot430load
-lpmsp430g2553.upload.maximum_size=16384
-lpmsp430g2553.build.mcu=msp430g2553
-lpmsp430g2553.build.f_cpu=16000000L
-lpmsp430g2553.build.core=msp430
-lpmsp430g2553.build.variant=launchpad
-lpmsp430g2553.upload.maximum_ram_size=512
+bmsp430g2553.upload.tool=boot430load
+bmsp430g2553.upload.maximum_size=16384
+bmsp430g2553.build.mcu=msp430g2553
+bmsp430g2553.build.f_cpu=16000000L
+bmsp430g2553.build.core=msp430
+bmsp430g2553.build.variant=launchpad
+bmsp430g2553.upload.maximum_ram_size=512
 
 ##############################################################
